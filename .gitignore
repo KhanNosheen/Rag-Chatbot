@@ -1,0 +1,6 @@
+.env
+*.docx
+~$*
+__pycache__/
+.vscode/
+img.png
